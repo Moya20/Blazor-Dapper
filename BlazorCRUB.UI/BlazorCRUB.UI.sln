@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorCRUB.UI", "BlazorCRUB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorCRUB.Model", "BlazorCRUB.Model\BlazorCRUB.Model.csproj", "{896C93BC-63D6-4520-971A-9127B397036B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorCRUB.Data.Dapper", "BlazorCRUB.Data.Dapper\BlazorCRUB.Data.Dapper.csproj", "{C042882F-B0ED-49E3-A657-2F04A35CFC4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{896C93BC-63D6-4520-971A-9127B397036B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{896C93BC-63D6-4520-971A-9127B397036B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{896C93BC-63D6-4520-971A-9127B397036B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C042882F-B0ED-49E3-A657-2F04A35CFC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C042882F-B0ED-49E3-A657-2F04A35CFC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C042882F-B0ED-49E3-A657-2F04A35CFC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C042882F-B0ED-49E3-A657-2F04A35CFC4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
